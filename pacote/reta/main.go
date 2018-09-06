@@ -14,4 +14,5 @@ func main() {
 	// embora esteja em um arquivo separado
 
 	fmt.Println(catetos(p1, p2))
+	fmt.Println(Distancia(p1, p2))
 }
